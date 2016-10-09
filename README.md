@@ -1,4 +1,4 @@
-# gmbn10: Global Map Brunei 1.0
+# gmbn20: Global Map Brunei 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
