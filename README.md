@@ -9,5 +9,4 @@ Credit: "Global Map of Brunei © ISCGM/Survey Department, Ministry of Developmen
 
 Contact: Survey Department, Ministry of Development.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/brunei.png)
-
+E-mail: ![email](email.png)
